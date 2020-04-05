@@ -23,6 +23,10 @@ div {
 	border-style: groove;
 }
 
+img {
+  float: left;
+}
+
 /*footer*/
 
 .social-media {
