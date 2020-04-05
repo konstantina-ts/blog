@@ -15,16 +15,16 @@ body {
   display: grid;
 }
 
-.flex-container {
-  display: flex;
-}
-
 div {
 	border-style: groove;
 }
 
 img {
   float: left;
+}
+
+figcaption {
+  display: block;
 }
 
 /*footer*/
